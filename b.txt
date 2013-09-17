@@ -1,0 +1,3 @@
+This is a new text file
+added as a new feature in this branch
+and eventually will be merged with the head branch

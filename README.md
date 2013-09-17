@@ -4,6 +4,4 @@ tg Test Repository
 It just a simple repository made for testing git.
 Therefore, this readme file will be shallow.
 
-new line
-t1g
-modified after staggin
+Files in this repository:
